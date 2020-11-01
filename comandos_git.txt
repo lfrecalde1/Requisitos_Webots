@@ -1,31 +1,48 @@
+// comando para verificar la version de git
 git --version
 
+// init git en un directorio de trabajo
 git init
 
+// verficiar el estado  de nuestros archivos si tienen o no seguimiento
 git status -s
 
+// agregar un archivo a seguimiento
 git add get-pip.py
 
 git status -s
 
+// agregar un commit para poder acceder a ese punto de guardado
 git commit -m "Agregar pip"
 
+// hacer seguimiento a todos los archivos
 git add .
 
+// ver todos los commits
 git log --oneline
 
+// hacer salto en el tiempo  hacia un commit que se desee
 git reset --hard 4ef08de
 
 git reset --hard 3f65612
 
+// comando para sincronizar nuestro espacio de trabajo con un repostorio en la nube
 git remote add origin link repo
 
+// Comando para crear la primera raiz
 git branch -M main
 
+// enviar los archivos a la nube este es el primer comando de ahi solo se usa push
 git push -u origin main
 
+// enviar archivos a la nube
 git push  
 
+// descaargar un repositorio 
+git clone https://github.com/lfrecalde1/Requisitos_Webots.git
+
+// comando que se usa para sincronizar un repositorio
 git fetch
 
+// comando para actualizar el repositorio
 git pull 
