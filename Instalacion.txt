@@ -22,5 +22,5 @@
 
 10. Finalmente para Webots realizar la descarga de el siguiente link "https://github.com/cyberbotics/webots/releases" version 2020a o 2020b  y seleccionar su sitema operativo respectivo
 
-11. Descargar Matlab de 2018a  en adelante en internet pueden encontrar tutoriales q expliquen este proceso o descargar la version de prueba de 30 dias.
+11. Descargar Matlab de 2018a  en adelante en internet pueden encontrar tutoriales q expliquen este proceso o descargar la version de prueba de 30 dias :3.
 
