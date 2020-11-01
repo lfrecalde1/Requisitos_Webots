@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------
+1- Ejecutar el instalador de python 3.7.9 python-3.7.9-amd64.exe , selecionar la casilla Add Python 3.7 to Path y dar click en Instalar.
+
+2- Para verificar la instalacion abrir un terminal y escribir python, en la temirnal les debe regresar la version instalada, 
+   si esta version no llegan a ser iguales, debe desinstalar cualquier version de python que tengas instaladas previamente y repetir el paso 1.
+
+3. Abir un temirnal y direcionar hacia la carpeta "Instalacion" la cual es muy posible q se encuentre en Downloads una ves en esta caperta, ejecutar el siguiente comando python get-pip.py, se intalara el un paquete encargado de gestionar librrias
+
+4. Para verificar la instalacion introducir el siguiente comando en la temirnal pip --version
+
+5. Si todo  se instalo correctamente les debe regresar la version de su pip
+
+6. Ubicados sen la carpeta instlacion se encuentra un instalador de git el cual nos ayudar a descargar los repositorios y  poder movernos por la temrinal que este mismo nos otorga,
+   ejecutar el archivo Git-2.29.1-64-bit.exe
+
+7. En el gestor de la instalcion seleccionar todo por defecto.
+
+8. Para verificar que todo este correcto, en el directo que se desee trabajar dar click derecho, y podran visualizar que se muestran dos opciones  de git, selecionaran la siguiente "Git Bash Here",
+   el cual abrira una especie de terminal.
+
+9. Finalmente dirigir a la carpeta Instalacion abir una temirnal usando Git y ejecutar pip install -r paquetes.txt
+
+10. Finalmente para Webots realizar la descarga de el siguiente link "https://github.com/cyberbotics/webots/releases" version 2020a o 2020b  y seleccionar su sitema operativo respectivo
+
+11. Descargar Matlab de 2018a  en adelante en internet pueden encontrar tutoriales q expliquen este proceso o descargar la version de prueba de 30 dias.
+
